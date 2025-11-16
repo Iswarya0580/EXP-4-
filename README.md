@@ -1,4 +1,3 @@
-# EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
 AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
@@ -38,15 +37,43 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+<img width="839" height="431" alt="image" src="https://github.com/user-attachments/assets/2479312f-da42-4f0e-86a4-f3e584c79b63" />
+
+
+Half wave rectifier without filter:
+<img width="1042" height="517" alt="image" src="https://github.com/user-attachments/assets/e9bed152-e341-46c9-b97e-72fbb53305e1" />
+
 Bridge rectifier with filter:
+<img width="1030" height="478" alt="image" src="https://github.com/user-attachments/assets/4dbb758e-c2b1-4c76-9037-c452ead1b403" />
+
+
+Bridge rectifier without filter:
+<img width="1030" height="433" alt="image" src="https://github.com/user-attachments/assets/afc3388a-7c31-49e2-bbd6-a92cbe8ffc75" />
 
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
 
-WAVEFORM:
+![IMG-20251116-WA0031](https://github.com/user-attachments/assets/373aca28-2818-4b17-8619-81afa9ba665b)
 
+
+![IMG-20251116-WA0030](https://github.com/user-attachments/assets/f8433b55-24d6-4e4d-bbd7-948eb106b2fe)
+
+![IMG-20251116-WA0029](https://github.com/user-attachments/assets/b908df12-3369-4efc-b23a-ccc128039f26)
+
+
+![IMG-20251116-WA0028](https://github.com/user-attachments/assets/c8f8fab1-4c4d-462d-9c69-ea6788b46807)
+
+
+![IMG-20251116-WA0032](https://github.com/user-attachments/assets/bcb65a95-918e-4f35-8d53-375e10cec0eb)
+
+
+
+WAVEFORM: Half wave rectifier with filter:
+
+<img width="1374" height="881" alt="image" src="https://github.com/user-attachments/assets/02e045bb-ca90-4717-a98b-c65383e6700a" />
+
+WAVEFORM: Half wave rectifier without filter:
+
+<img width="1038" height="676" alt="image" src="https://github.com/user-attachments/assets/bb10dd37-321d-4524-a34b-2055e425bfe7" />
 
 RESULT:
 
